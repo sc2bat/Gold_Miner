@@ -1,0 +1,5 @@
+Mouse Click Event 
+Sprite 캐릭터 관리
+Rotation 게임 내 이미지 각도 회전
+Math 코딩에 수학 적용
+collision 이미지내에서 투명한 부분 제외하고 적용
